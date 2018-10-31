@@ -1,0 +1,2 @@
+# DjangoPractice
+Djangoで作る練習用Webアプリケーション
